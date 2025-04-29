@@ -1,4 +1,4 @@
-# Loan AI 
+# Loan AI V2
 
 #### O objetivo deste projeto é desenvolver um modelo de machine learning capaz de determinar a elegibilidade de indivíduos ou organizações para a obtenção de empréstimos em uma instituição de crédito, utilizando dados como renda, grau de escolaridade, pontuação de crédito, entre outros.
 #### O modelo escolhido foi o Sequencial, e para o treinamento, utilizou-se um dataset do Kaggle. Após o treinamento, a rede neural foi aplicada para classificar novos dados fornecidos pelos usuários.
