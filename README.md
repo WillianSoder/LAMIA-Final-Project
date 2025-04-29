@@ -21,8 +21,7 @@
   - Ativos bancários;
   - Status do empréstimo.
 
-  O objetivo deste dataset é determinar a elegibilidade de indivíduos ou organizações para a obtenção de empréstimos em uma instituição de crédito, por meio de uma coleção de registros financeiros e informações associadas. O link para o dataset está disponível abaixo.
-  https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset
+  O objetivo deste dataset é determinar a elegibilidade de indivíduos ou organizações para a obtenção de empréstimos em uma instituição de crédito, por meio de uma coleção de registros financeiros e informações associadas.
 
 
 ## Pré-processamento dos dados: 
